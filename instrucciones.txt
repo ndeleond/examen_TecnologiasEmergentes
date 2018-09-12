@@ -1,0 +1,10 @@
+- Tenemos que asegurarnos de tener instalado nodeJS y npm.
+- Se utilizo como Backend, gestor de bases de datos y la autenticacion del usuario se utilizo la plataforma Firebase.
+
+   * Email: usuario.tienda@mail.com
+   * Contraseña: 123456
+
+- VERSION ANGULAR // Abrimos la terminal, ejecutamos el comando "npm install" (en caso de no funcionar el anterior ingrese el siguiente comando: " npm install -g @angular/cli@latest " ) que instala las dependencias necesarias (que no fueron incluidas en la carpeta del proyecto para reducir el peso del archivo .rar); luego ejecutamos el comando "ng serve" y desde el navegador ingresamos al "http://localhost:4200".
+- VERSION REACT // Las dependecias estan incluidas en la carpeta del proyecto, solo debemos ejecutar el comando en la terminal "npm start" y desde el navegador ingresamos al "http://localhost:8080".
+
+
